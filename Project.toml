@@ -1,0 +1,16 @@
+version = "9.310.0+0"
+name = "DGGRID9_jll"
+uuid = "6d618384-095c-58fd-b829-8cc9975afb5d"
+
+[deps]
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
+Artifacts = "56f22d72-fd6d-98f1-02f0-08ddc0907c33"
+GDAL_jll = "a7073274-a066-55f0-b90d-d619367d196c"
+
+[compat]
+Libdl = "< 0.0.1, 1"
+julia = "1.10"
+JLLWrappers = "1.7.0"
+Artifacts = "< 0.0.1, 1"
+GDAL_jll = "305.1300.301"

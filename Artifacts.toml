@@ -1,0 +1,121 @@
+[[DGGRID9]]
+arch = "aarch64"
+git-tree-sha1 = "a3e70f5efe3a62c2daa33247306e13509e294444"
+os = "macos"
+
+    [[DGGRID9.download]]
+    sha256 = "17553d9579788fb56d58b3fd852aaca9cf17d5e7d568243236a2a46e411270b2"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.aarch64-apple-darwin.tar.gz"
+[[DGGRID9]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44964bc4a1caaaaf3ab222eb3b83189a39741edb"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID9.download]]
+    sha256 = "27bf39ef2636c3983dab378025e78e6390055ae45f8f11eebd23287fba8387f4"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[DGGRID9]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "555005d6215442b8d8bca167793ac445ececd2e0"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID9.download]]
+    sha256 = "3caeae5b053e5c57f94d3cc89f1dc90d6ace72028b8c98ad2e58c5e90185d15a"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.aarch64-linux-musl-cxx11.tar.gz"
+[[DGGRID9]]
+arch = "aarch64"
+git-tree-sha1 = "5e020112da8cae439963a9bf74bacb8c24a5af7e"
+os = "freebsd"
+
+    [[DGGRID9.download]]
+    sha256 = "b27078e46cb578a1912b811582bccf07c74f646ff39962d93eaaea1c51bf4a71"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.aarch64-unknown-freebsd.tar.gz"
+[[DGGRID9]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "201b684bb73a8646683944f66a7a0fa7815e2cd4"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID9.download]]
+    sha256 = "7cef882df3aee005cc30370d5f595701c80ab24cf39bd990e2c54e702fc05dc4"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[DGGRID9]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3bbbeab9e595ed106b0c30efd356e7d64cb4c0f9"
+os = "windows"
+
+    [[DGGRID9.download]]
+    sha256 = "08547e659b1c706f18e19a9e1dbff48a92966f2fa1a7b3e7d81c0dd7b9147d58"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.i686-w64-mingw32-cxx11.tar.gz"
+[[DGGRID9]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "e29a94d508f4a3fe02ec9d82dac1519501ea8f9b"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID9.download]]
+    sha256 = "102a1d359ae631c800f2987365bb106af7bbde47056bcd0e8363ffd55df26559"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[DGGRID9]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "4ba81f210b99a7b4fc94818f41e9e598f335bc31"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID9.download]]
+    sha256 = "ffb0d4fb1735b71c09f55268b5d40c765fedeae7e4151359ef9a01884e5fd750"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.riscv64-linux-gnu-cxx11.tar.gz"
+[[DGGRID9]]
+arch = "x86_64"
+git-tree-sha1 = "6e0471718089a7760b1351a580879eacf9d33d80"
+os = "macos"
+
+    [[DGGRID9.download]]
+    sha256 = "44238da35e99275ce0e28552f611c987bb820ec7feff5e4548cf88120cf22db9"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.x86_64-apple-darwin.tar.gz"
+[[DGGRID9]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "224169df5bc891643e9c858e3a7fbff37873173b"
+libc = "glibc"
+os = "linux"
+
+    [[DGGRID9.download]]
+    sha256 = "006c65fb583c814b889eeb1c6e1d2d5dbbf18698b9333afe3e4807ccecfc03b3"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.x86_64-linux-gnu-cxx11.tar.gz"
+[[DGGRID9]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5285fd40ab5b8eeef8d79c7149fe6dbdf18943d6"
+libc = "musl"
+os = "linux"
+
+    [[DGGRID9.download]]
+    sha256 = "76b1f1b37f498ef2215c63f7658603af543b9dc556584b3be2586dc64a00fa16"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.x86_64-linux-musl-cxx11.tar.gz"
+[[DGGRID9]]
+arch = "x86_64"
+git-tree-sha1 = "09fb94a007c878e0e8373f56e41dfbe41071964a"
+os = "freebsd"
+
+    [[DGGRID9.download]]
+    sha256 = "15609b48c31e8dd7192f098b397d6aa8c657d29364f7066fe100a5b2cc8dcc09"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.x86_64-unknown-freebsd.tar.gz"
+[[DGGRID9]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "831ca945fd5a3dc8ead49a6a192bea65a50f5878"
+os = "windows"
+
+    [[DGGRID9.download]]
+    sha256 = "665faa18c83530d81c522e6164953093205526e44ce49a4c461231cf38894b66"
+    url = "https://github.com/JuliaBinaryWrappers/DGGRID9_jll.jl/releases/download/DGGRID9-v9.310.0+0/DGGRID9.v9.310.0.x86_64-w64-mingw32-cxx11.tar.gz"
